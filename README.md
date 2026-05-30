@@ -1,5 +1,7 @@
 # Digit Recognizer API
 
+Процесс выбора модели можно увидеть по ссылке https://colab.research.google.com/drive/1gEhTvTsJcfYSMe4WgIrZLCbPf-zKdbKM?usp=sharing
+
 ## Запуск
 
 ```bash
